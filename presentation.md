@@ -1,22 +1,31 @@
 ---
 marp: true
 theme: uncover
+class: invert
+footer: by The Nerd of all Trades
 math: mathjax
 ---
 
-<!-- _backgroundImage: "linear-gradient(250deg, #ffeb61, #eb61ff)" -->
-<!-- _color: #ffffff -->
+<!-- _backgroundImage: "linear-gradient(135deg, #29fed4, #a4f015)" -->
+<!-- _color: #202228 -->
 
 <style>
-* { font-family: 'Rubik', sans-serif; }
+section h3 { color: #7d3; }
+section.title h3 { color: #202228; }
 </style>
 
-<!-- # PRESENTAZIONE # -->
+<style scoped>
+section {  border: 50px solid #202228;  }
+</style>
 
+
+<!-- # PRESENTAZIONE # -->
+<!-- _class: title -->
 ### SUGO DI TUTTO IL QUADRIMESTRE :ledger:
 Una presentazione che riassume gli argomenti del primo quadrimestre.
 
 ---
+<!-- color: #a4f015 -->
 
  - Vincolo di bilancio
  - Paniere
@@ -30,7 +39,7 @@ Una presentazione che riassume gli argomenti del primo quadrimestre.
 ### Il Vincolo di Bilancio :chart_with_upwards_trend:
 Il vincolo di bilancio è la quantità di beni che un consumatore può acquistare prendendo in considerazione il suo reddito.
 
-### $p_1 \times q_1 + p_2 \times q_2 \le R$
+$p_1 \times q_1 + p_2 \times q_2 \le R$
 
 ---
 
@@ -48,7 +57,7 @@ La macroeconomia è il quadro generale dell'economia, si occupa della performanc
 
 ### La Domanda e il suo spostamento:question:
 
-### $p = x - y \times q$
+$p = x - y \times q$
 
 ---
 
@@ -70,5 +79,7 @@ Forma implicita:
 $ax+by+c=0$
 
 ---
-
+<!-- _backgroundImage: "linear-gradient(225deg, #29fed4, #a4f015)" -->
+<!-- _color: #202228 -->
 # *Fin*
+grazie per l'ascolto
