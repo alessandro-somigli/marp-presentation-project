@@ -1,0 +1,74 @@
+---
+marp: true
+theme: uncover
+math: mathjax
+---
+
+<!-- _backgroundImage: "linear-gradient(250deg, #ffeb61, #eb61ff)" -->
+<!-- _color: #ffffff -->
+
+<style>
+* { font-family: 'Rubik', sans-serif; }
+</style>
+
+<!-- # PRESENTAZIONE # -->
+
+### SUGO DI TUTTO IL QUADRIMESTRE :ledger:
+Una presentazione che riassume gli argomenti del primo quadrimestre.
+
+---
+
+ - Vincolo di bilancio
+ - Paniere
+ - Intercette
+ - Micro & Macro economia
+ - Domanda
+ - Offerta
+
+---
+
+### Il Vincolo di Bilancio :chart_with_upwards_trend:
+Il vincolo di bilancio è la quantità di beni che un consumatore può acquistare prendendo in considerazione il suo reddito.
+
+### $p_1 \times q_1 + p_2 \times q_2 \le R$
+
+---
+
+### Paniere di consumo :bread:
+E’ l’insieme dei beni associati ad una determinata quantità.
+
+---
+
+### Micro e Macro Economia :money_with_wings:
+La microeconomia è lo studio dei sistemi economici con un'enfasi sul comportamento dei singoli operatori e i singoli mercati.
+
+La macroeconomia è il quadro generale dell'economia, si occupa della performance economica di interi Stati o di entità sovranazionali.
+
+---
+
+### La Domanda e il suo spostamento:question:
+
+### $p = x - y \times q$
+
+---
+
+### L'Offerta :hand:
+L'offerta è la quantità di un bene che un venditore è disposto a vendere in cambio di una somma di denaro.
+
+---
+
+### Le intercette :children_crossing:
+
+L'intercetta di una retta, ovvero l'ordinata all'origine q, è l'ordinata del punto di intersezione tra la retta e l'asse Y. 
+
+Saranno utili a trovare il prezzo.
+
+Intercetta di una retta in forma esplicita: 
+$y = m \times x + q$
+
+Forma implicita: 
+$ax+by+c=0$
+
+---
+
+# *Fin*
