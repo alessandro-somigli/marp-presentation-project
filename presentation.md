@@ -18,7 +18,6 @@ section.title h3 { color: #202228; }
 section {  border: 50px solid #202228;  }
 </style>
 
-
 <!-- # PRESENTAZIONE # -->
 <!-- _class: title -->
 ### SUGO DI TUTTO IL QUADRIMESTRE :ledger:
@@ -56,6 +55,7 @@ La macroeconomia è il quadro generale dell'economia, si occupa della performanc
 ---
 
 ### La Domanda e il suo spostamento:question:
+La quantità di consumo richiesta dal mercato e dai consumatori di un certo bene o servizio, dato un determinato prezzo.
 
 $p = x - y \times q$
 
@@ -66,7 +66,7 @@ L'offerta è la quantità di un bene che un venditore è disposto a vendere in c
 
 ---
 
-### Le intercette :children_crossing:
+### Le intercette :inbox_tray:
 
 L'intercetta di una retta, ovvero l'ordinata all'origine q, è l'ordinata del punto di intersezione tra la retta e l'asse Y. 
 
